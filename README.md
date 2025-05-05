@@ -1,13 +1,14 @@
-# CS-to-Prod Playbook Playbook
+# CS‑to‑Prod Playbook
 
-> Mission: Open-sourcing every lesson from my CS Master’s as runnable, production-ready patterns.
+> Mission: Open‑sourcing every lesson from my MS‑CS as runnable, production‑ready patterns.
 
-| Roadmap (May 2025 → Sep 2026)       | Status |
-|------------------------------------|:------:|
-| Linked List + Tests                | [ ]      |
-| Dynamic Array + Benchmarks         | [ ]      |
-| BFS / DFS Maze Solver              | [ ]      |
-| Tiny HTTP 1.1 Server               | [ ]      |
-| CRUD “Twitter-Lite” (Next.js/Node) | [ ]      |
+## Current Pathway – Data Structures & Algorithms
+| Module (in progress)                     | Status |
+|------------------------------------------|:------:|
+| Linked List + tests                      | ☑︎ |
+| Dynamic Programming – Knapsack & LCS     | ☐ |
+| Greedy – Activity Selection              | ☐ |
+| Approximation – Vertex Cover 2‑approx    | ☐ |
+| Advanced DS & RSA demo                   | ☐ |
 
-Each module lives in its own folder + comes with tests, a README & CI.
+Each module lives in its own folder and ships with tests, a README, and CI.
